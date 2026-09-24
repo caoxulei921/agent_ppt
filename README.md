@@ -1,5 +1,7 @@
 # Harness Engineering · Agent 分享PPT
 
+[![GitHub stars](https://img.shields.io/github/stars/caoxulei921/agent_ppt?style=social)](https://github.com/caoxulei921/agent_ppt) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 ## 背景
 
 单位让我做一次科普性的技术分享，在制作的过程中我参考了许多公开资料深为受益，我也打算把自己的成果反馈给开源社区，尽绵薄之力。
